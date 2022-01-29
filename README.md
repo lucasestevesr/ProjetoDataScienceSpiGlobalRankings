@@ -8,7 +8,7 @@ No repositório consiste o script de análise dos dados, o dataset utilizado, ta
 
 #Instalação:
 
-Basta clonar ou fazer downaload do arquivos do repositório e abri-los utilizando Jupyter Notebook ou Google Colabs.
+Basta clonar ou fazer download do arquivos do repositório e abri-los utilizando Jupyter Notebook ou Google Colabs.
 
 
 Att.
